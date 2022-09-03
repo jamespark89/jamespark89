@@ -1,13 +1,13 @@
 <!-- prettier-ignore-start -->
 ### Hi there 👋
 ---
-
-- 🔭 I’m currently working on **front-end skills**
-- 🌱 I’m currently learning **React**
-- 📫 How to reach me: https://devjamespark.com
+- I'm James **Frontend developer** from Korea 🇰🇷
+- Living in Melbourne, Australia🇦🇺
+- Currently working on **Front-end skills**
+- Learning **React**
+- How to reach me: https://devjamespark.com
 ---
 ### My tech stack
----
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
