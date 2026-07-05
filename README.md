@@ -1,27 +1,23 @@
-<!-- prettier-ignore-start -->
-### Hi there 👋
+### Hi there
 ---
-- I'm James **Frontend developer** from Korea 🇰🇷
-- Living in Melbourne, Australia🇦🇺
-- Currently working on **Front-end skills**
-- Learning **React**
-- How to reach me: https://devjamespark.com
+- I'm James, a **Systems & Network Engineer** from Korea, currently living in Melbourne, Australia.
+- Documenting my transition into **DevOps, Cloud Infrastructure, and Platform Engineering**.
+- Currently expanding my expertise in infrastructure automation, Linux administration, and CI/CD workflows.
+- How to reach me: mel.jamespark@gmail.com | [LinkedIn](https://www.linkedin.com/in/sangkook-park/)
+
 ---
 ### My tech stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
-### Recent Project
-|Project|Description|
-|:--:|:--:|
-|Mern Community Website|![community](communitywebsite.png)[<img src="demo.png" width="40"/>](https://mern-communitywebsite.herokuapp.com/)|
-|React MovieApp|![movieapp](movieapp.png)[<img src="demo.png" width="40"/>](https://jamespark89.github.io/react-app-movieapp/)|
-|Vue ecommerce|![ecommerce](ecommerce.png)[<img src="demo.png" width="40" margin-left="auto"/>](http://ecommerce.devjamespark.com/)||
-
-<!-- prettier-ignore-end -->
+### Infrastructure & Engineering Labs
+| Laboratory Focus | Core Technology Stack | Description |
+| :--- | :--- | :--- |
+| **Active Directory & Infrastructure** | Windows Server, Hyper-V, DHCP Failover, GPO | Simulated enterprise corporate environments with high-availability domain controllers. |
+| **Linux Admin & Monitoring** | Ubuntu Server, Bash Scripting, Cron | Built automated battery health monitoring and system alerting scripts. |
+| **Network Architecture** | Routing & Switching, TCP/IP, DNS | Configuring local virtual desktop infrastructure using dedicated thin clients. |
